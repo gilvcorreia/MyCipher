@@ -1,6 +1,6 @@
 # MyCipher
 This Application was made with the intent of saving my passwords without any fear that some other people might get acess to.
-I programmed everything in Java and used algorithms as AES-256 and SHA-1 to provide confidenciality and integrity to the files that save the password.
+I programmed everything in Java and used algorithms as AES-256, SHA-1 to provide confidenciality and SHA-256 to provide integrity to the files that save the password.
 To run the application is pretty straightforward, just need to run the .sh script.
 After running the script it will pop-up a terminal window and, if you run it for the first time, you'll need to put a password for the application
 and confirming it, then it's asked the user to create two salt numbers that aren't needed to mesmerize.
